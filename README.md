@@ -12,7 +12,7 @@ This is an offline event study application equipped with the processed CRSP and 
 
 
 
-![Nov-21-2019 20-11-54](/Users/genli/Dropbox/software/DansonGo3/DansonGo3/dansongo3_pic2.gif)
+![Nov-21-2019 20-11-54](dansongo3_pic2.gif)
 
 
 
