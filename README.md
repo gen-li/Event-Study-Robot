@@ -26,4 +26,4 @@ Matlab R2016b or above version.
 
 ## Contributor
 
-- [Gen Li](
+- [Gen Li](https://www.gen-li.com)
